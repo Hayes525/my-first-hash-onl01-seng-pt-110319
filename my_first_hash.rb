@@ -1,5 +1,5 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
+  brands = {"clothing" => "Chanel, Gucci, Burberry", "cars" => "Mercedes, Audi, VW", "food" => "Mcdonalds, Wataburger, Burger King", "shoes" => "Jimmy Choo, Sperry, YSL"}
 
   
 end
