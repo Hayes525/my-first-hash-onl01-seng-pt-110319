@@ -1,7 +1,5 @@
 def my_hash
   brands = {"clothing" => "Chanel, Gucci, Burberry", "cars" => "Mercedes, Audi, VW", "food" => "Mcdonalds, Wataburger, Burger King", "shoes" => "Jimmy Choo, Sperry, YSL"}
-
-
 end
 
 
