@@ -34,9 +34,5 @@ def adding
 
 
   # return the shipping_manifest hash below
-  shipping_manifest["whale bone corsets"]
-  shipping_manifest["porcelain vases"]
-  shipping_manifest["oil paintings"]
-  shipping_manifest["muskets"]
-  shipping_manifest["gun powder"]
+  puts shipping_manifest
 end
